@@ -1,4 +1,4 @@
 import logging
 
 logging.basicConfig(filename="index.py")
-logging.log("version2")
+logging.log("version1")
