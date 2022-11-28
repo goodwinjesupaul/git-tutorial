@@ -2,4 +2,4 @@ import os
 import logging
 
 logging.basicConfig(filename="console.py")
-logging.log("version 1")
+logging.log("version.py")
